@@ -33,7 +33,7 @@ Observação: Lembre-se sempre de testar enquanto o servidor estiver rodando! Ca
 
 
 # Créditos
-Inspirações e noçoes gerais com Tim (Tech With Tim: https://www.youtube.com/watch?v=GMppyAPbLYk&t=1703s).
+Inspirações e noções gerais com Tim (Tech With Tim: https://www.youtube.com/watch?v=GMppyAPbLYk&t=1703s).
 Como utilizar Basic Auth com Michael Aboagye (https://geekflare.com/securing-flask-api-with-jwt/).
 
 
