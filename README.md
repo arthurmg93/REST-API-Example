@@ -40,7 +40,7 @@ Como utilizar Basic Auth com Michael Aboagye (https://geekflare.com/securing-fla
 # Licença
 Este projeto pode ser utilizado e copiado por qualquer um DESDE QUE, caso utilize para fins outros além do educacional, sejam dados os devidos crétidos.
 
-/-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------/
+/------------------------------------------------------------------------------------------------------------------------------------------------------------/
 
 (US-EN)
 #  Purpose
