@@ -2,7 +2,7 @@
 
 (PT-BR)
 # Propósito
-Aplicação criada para desafio técnico. Espero que, além disso, servir de orientação para quem desejar aprender a criar uma API REST utilizando o Mini Framework Flask.
+Aplicação criada para desafio técnico. Espero que, além disso, sirva de orientação para quem desejar aprender a criar uma API REST utilizando o Mini Framework Flask.
 
 
 # Descrição
@@ -33,8 +33,8 @@ Observação: Lembre-se sempre de testar enquanto o servidor estiver rodando! Ca
 
 
 # Créditos
-Inspirações e noçoes gerais com Tim (Tech With Tim: https://www.youtube.com/watch?v=GMppyAPbLYk&t=1703s)
-Como utilizar Basic Auth com Michael Aboagye (https://geekflare.com/securing-flask-api-with-jwt/)
+Inspirações e noçoes gerais com Tim (Tech With Tim: https://www.youtube.com/watch?v=GMppyAPbLYk&t=1703s).
+Como utilizar Basic Auth com Michael Aboagye (https://geekflare.com/securing-flask-api-with-jwt/).
 
 
 # Licença
