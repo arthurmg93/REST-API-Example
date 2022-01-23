@@ -14,7 +14,7 @@ Na página inicial do projeto haverá um arquivo chamado 'requeriments.txt', nel
 Para instalar os pacotes recomendo, inicialmente, que crie um ambiente virtual para rodar o projeto. Caso não saiba como criar um ambiente virtual, segue um guia explicando o processo: https://docs.python.org/pt-br/3/library/venv.html.
 É necessário também que sua máquina tenha instalado o Python3 e o gerenciador de dependências pip (https://python.org.br/instalacao-windows/).
 
-Feito isso, basta abrir o Prompt de Comando (Aperte Windows + X e em seguida C) e insira o comando: 'pip install -r /caminho/até/requirements.txt (onde o trecho '/caminho/até' é o endereço onde está localizado arquivo).
+Feito isso, basta abrir o Prompt de Comando (Aperte Windows + X e em seguida C) e insira o comando: 'pip install -r /caminho/até/requeriments.txt (onde o trecho '/caminho/até' é o endereço onde está localizado arquivo).
 
 Por fim, basta baixar/clonar a pasta Library deste repositório e colocá-la junto com o ambiente virtual criado.
 
